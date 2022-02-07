@@ -23,7 +23,7 @@
 
 ### Do you like my snake 😎
 
-![snake gif](https://github.com/bryonpokemon/Chiinkiboi/blob/output/github-contribution-grid-snake.gif) 
+![snake gif](https://github.com/bryonpokemon/bryonpokemon/blob/output/github-contribution-grid-snake.gif) 
 
 <h3> 👾  Mi Contacts you Bumborass Batty Boy </h3>
 
