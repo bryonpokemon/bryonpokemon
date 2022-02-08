@@ -1,4 +1,4 @@
-<h2> I'm BRYoN aka. Chiinkiboi.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F709E5&lines=I'm+BRYoN+aka.+Chiinkiboi)](https://git.io/typing-svg)  
 <img align="right" alt="GIF" src="https://github.com/bryonpokemon/bryonpokemon/blob/main/ass/ezgif.com-gif-maker.gif" width="500"/>
 
 [![GitHub followers](https://img.shields.io/github/followers/bryonpokemon.svg?style=social&label=Followers)](https://github.com/bryonpokemon?tab=followers)
@@ -8,7 +8,6 @@
 
 <h3> 🈴 About Me 🈴 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F709E5&lines=I'm+BRYoN+aka.+Chiinkiboi)](https://git.io/typing-svg)  
 - 👨🏽‍🦼 &nbsp; I’m currently a self-learning developer since I went to school for the wrong thing lel
 - 🤔 &nbsp; Skidding everything I see including your mom
 - 👮🏿 &nbsp; Studying to become a first responder
