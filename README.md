@@ -7,7 +7,7 @@
 <h3> 🈴 About Me 🈴 </h3>
 
 - 👨🏽‍🦼 &nbsp; I’m currently a self-learning developer since I went to school for the wrong thing lel
-- 🤔 &nbsp; Skidding everything I see including your mom
+- 🤔 &nbsp; Skidding everything
 - 👮🏿 &nbsp; Studying to become a first responder
 - 💣 &nbsp; Currently learning and somewhat decent at Python
 - 🦍 &nbsp; Future languages are Golang and JS
