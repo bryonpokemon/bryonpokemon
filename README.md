@@ -6,7 +6,7 @@
 
 <h3> 🈴 About Me 🈴 </h3>
 
-- 👨🏽‍🦼 &nbsp; I’m currently a self-learning developer since I went to school for the wrong thing lel
+- 👨🏽‍🦼 &nbsp; I’m currently a self-learning developer 
 - 🤔 &nbsp; Skidding everything
 - 👮🏿 &nbsp; Studying to become a first responder
 - 💣 &nbsp; Currently learning and somewhat decent at Python
