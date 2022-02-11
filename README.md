@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F709E5&lines=I'm+BRYoN+aka.+Chiinkiboi)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F709E5&lines=I'm+BRYoN)](https://git.io/typing-svg)  
 <img align="right" alt="GIF" src="https://github.com/bryonpokemon/bryonpokemon/blob/main/ass/ezgif.com-gif-maker.gif" width="500"/>
 
 [![GitHub followers](https://img.shields.io/github/followers/bryonpokemon.svg?style=social&label=Followers)](https://github.com/bryonpokemon?tab=followers)
@@ -28,6 +28,6 @@
 
 <p align="center">
 &nbsp; <a href="https://discord.gg/CRpJS9yGFG" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="50" /></a>  
-&nbsp; <a href="https://t.me/chiinkiboi" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/344/telegram-app.png" width="50" /></a>  
+&nbsp; <a  target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/344/telegram-app.png" width="50" /></a>  
 </p>
 
