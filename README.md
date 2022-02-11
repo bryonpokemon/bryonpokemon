@@ -14,7 +14,7 @@
   
 ### Github Stats:
 
-
+![BRYoN GitHub stats](https://github-readme-stats.vercel.app/api?username=bryonpokemon&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bryonpokemon&theme=radical)](https://git.io/streak-stats) 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryonpokemon&layout=compact&text_color=daf7dc&bg_color=151515" alt="bryonpokemon" /></p>
 
