@@ -3,8 +3,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/bryonpokemon.svg?style=social&label=Followers)](https://github.com/bryonpokemon?tab=followers)
 
-  
-<img align="center" alt="Logo" width="200" src="https://github.com/bryonpokemon/bryonpokemon/blob/main/ass/server%20banner.jpg"/>
 
 <h3> 🈴 About Me 🈴 </h3>
 
