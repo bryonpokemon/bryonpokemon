@@ -8,7 +8,6 @@
 
 - 👨🏽‍🦼 &nbsp; I’m currently a self-learning developer 
 - 🤔 &nbsp; Skidding everything
-- 👮🏿 &nbsp; Studying to become a first responder
 - 💣 &nbsp; Currently learning and somewhat decent at Python
 - 🦍 &nbsp; Future languages are Golang and JS
   
