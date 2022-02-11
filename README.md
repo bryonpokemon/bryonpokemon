@@ -22,7 +22,7 @@
 
 ![snake gif](https://github.com/bryonpokemon/bryonpokemon/blob/output/github-contribution-grid-snake.gif) 
 
-<h3> 👾  Mi Contacts you Bumborass Batty Boy </h3>
+<h3> 👾  Mi Contacts </h3>
 
 <p align="center">
 &nbsp; <a href="https://discord.gg/CRpJS9yGFG" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="50" /></a>  
