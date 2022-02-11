@@ -2,7 +2,7 @@
 
 
 [![GitHub followers](https://img.shields.io/github/followers/bryonpokemon.svg?style=social&label=Followers)](https://github.com/bryonpokemon?tab=followers)
-
+![](https://komarev.com/ghpvc/?username=bryonpokemon&color=ff1493&style=flat-square)
 
 <h3> 🈴 About Me 🈴 </h3>
 
