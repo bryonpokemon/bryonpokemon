@@ -13,7 +13,7 @@
   
 ### Github Stats:
 
-![BRYoN GitHub stats](https://github-readme-stats.vercel.app/api?username=bryonpokemon&show_icons=true&theme=radical)  
+![BRYoN GitHub stats](https://github-readme-stats.vercel.app/api?username=bryonpokemon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryonpokemon&layout=compact&text_color=daf7dc&bg_color=151515" alt="bryonpokemon" /></p>
 
 ### Do you like my snake 😎
