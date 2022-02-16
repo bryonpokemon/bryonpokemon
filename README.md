@@ -29,6 +29,6 @@
 
 <p align="center">
 &nbsp; <a href="https://discord.gg/CRpJS9yGFG" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="50" /></a>  
-&nbsp; <a  target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/344/telegram-app.png" width="50" /></a>  
+&nbsp; <a href="https://t.me/BRYoNNN" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/344/telegram-app.png" width="50" /></a>  
 </p>
 
