@@ -1,3 +1,7 @@
+</details>
+<p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-2/926883400248356885.png" height="1000px"/></a></p>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F709E5&lines=I'm+BRYoN)](https://git.io/typing-svg)  
 
 
